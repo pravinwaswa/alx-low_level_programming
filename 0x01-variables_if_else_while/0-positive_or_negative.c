@@ -4,8 +4,8 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * This program prints either positive, zero, or negative numbers
- * main = main function
+ * Description: This program prints either positive, zero, or negative numbers
+ * main - main function
  *
  * Return: 0
  */
