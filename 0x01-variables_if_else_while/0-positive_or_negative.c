@@ -4,9 +4,10 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * Description: This program prints either positive, zero, or negative numbers
- * main - main function
- *
+** main - print if the number is zero, positive, or negative
+*
+* Description: using the main function
+* this program prints "Postive negative and zero"
  * Return: 0
  */
 int main(void)
